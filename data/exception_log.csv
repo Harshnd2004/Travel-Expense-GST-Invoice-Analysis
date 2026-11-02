@@ -1,0 +1,17 @@
+Claim_ID,Issue_Type,Field,Orginal_Value,Suggested_Action,Review_Status,Original_Value
+TRV-0023,Missing Required Field,Expense_Date,,Verify against the source invoiceor expense submission,Open,
+TRV-0013,Missing Required Field,Employee,,Verify against the source invoiceor expense submission,Open,
+TRV-0024,Missing Required Field,Client,,Verify against the source invoiceor expense submission,Open,
+TRV-0022,Missing Required Field,Vendor,,Verify against the source invoiceor expense submission,Open,
+TRV-0004,Missing Required Field,Invoice_No,,Verify against the source invoiceor expense submission,Open,
+TRV-0032,Missing Required Field,Invoice_No,,Verify against the source invoiceor expense submission,Open,
+TRV-0032,Missing Required Field,Taxable_Amount_INR,,Verify against the source invoiceor expense submission,Open,
+TRV-0032,Invalid or Missing Date,Expense_Date,,Verify source document,Open,2026-07-31
+TRV-0015,Invoice Total Validation,Invoice_Total_INR,,Compare recorded total with taxable valueand calculated GST,Open,825.0
+TRV-0019,Invoice Total Validation,Invoice_Total_INR,,Compare recorded total with taxable valueand calculated GST,Open,900.0
+TRV-0021,Invoice Total Validation,Invoice_Total_INR,,Compare recorded total with taxable valueand calculated GST,Open,4602.0
+TRV-0028,Invoice Total Validation,Invoice_Total_INR,,Compare recorded total with taxable valueand calculated GST,Open,849.6
+TRV-0032,Invoice Total Validation,Invoice_Total_INR,,Compare recorded total with taxable valueand calculated GST,Open,
+TRV-0015,GST Validation,GST_Total_INR,,"Verify CGST, SGST, IGST, and recorded GST Total",Open,75.0
+TRV-0021,GST Validation,GST_Total_INR,,"Verify CGST, SGST, IGST, and recorded GST Total",Open,702.0
+TRV-0032,GST Validation,GST_Total_INR,,"Verify CGST, SGST, IGST, and recorded GST Total",Open,
