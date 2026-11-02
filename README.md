@@ -27,4 +27,4 @@ Analyzed travel expense claims and GST invoices to monitor business spending, ev
 
 ![Travel Expense & GST Invoice Analysis Dashboard](screenshots/Dahboard.png)
 
-*Note: Add your actual Power BI dashboard screenshot to the `screenshots` folder using the filename `travel-expense-dashboard.png`.*
+
